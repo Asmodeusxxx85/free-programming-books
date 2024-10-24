@@ -3,6 +3,8 @@
 * [AR/VR/MR](#ar-vr-mr)
 * [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
+* [DevOps](#devops)
+* [Git/Github](#git-github)
 * [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
@@ -14,6 +16,7 @@
 * [Ruby](#ruby)
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)
+* [Software Testing](#software-testing)
 * [Wordpress](#wordpress)
 
 
@@ -30,6 +33,16 @@
 ### Computer Vision
 
 * [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/) - இரா.அசோகன் (PDF)
+
+
+### DevOps
+
+* [எளிய தமிழில் DevOps – கணினி அறிவியல்](https://freetamilebooks.com/ebooks/learn_devops_in_tamil/) - து.நித்யா (PDF)
+
+
+### Git Github
+
+* [எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamizhil_git/) - கி. முத்துராமலிங்கம் (PDF)
 
 
 ### Hadoop
@@ -57,6 +70,7 @@
 
 ### Machine Learning
 
+* [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து. நித்யா (PDF)
 * [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
 
 
@@ -89,6 +103,11 @@
 ### Software Architecture
 
 * [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil) - த.சீனிவாசன் (PDF)
+
+
+### Software Testing
+
+* [எளிய தமிழில் சாப்ட்வேர் டெஸ்டிங் – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/) - கி.முத்துராமலிங்கம் (PDF)
 
 
 ### WordPress
